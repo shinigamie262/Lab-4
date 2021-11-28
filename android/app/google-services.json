@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885099415295",
+    "project_id": "todosapp-ef511",
+    "storage_bucket": "todosapp-ef511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885099415295:android:84474f6d4c4a2776922eca",
+        "android_client_info": {
+          "package_name": "com.lab4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885099415295-kdfstgfrlgus75875jcd05i4ejv8hqft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb4tSLBAGglvwwmc9baFaUPXzWWJngI7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885099415295-kdfstgfrlgus75875jcd05i4ejv8hqft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
